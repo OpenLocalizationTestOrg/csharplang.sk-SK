@@ -4,7 +4,7 @@
       "docset_name": "meetings",
       "build_source_folder": "meetings",
       "build_output_subfolder": "meetings",
-      "locale": "sk-SK",
+      "locale": "sk-sk",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -21,7 +21,7 @@
       "docset_name": "proposals",
       "build_source_folder": "proposals",
       "build_output_subfolder": "proposals",
-      "locale": "sk-SK",
+      "locale": "sk-sk",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -38,7 +38,7 @@
       "docset_name": "spec",
       "build_source_folder": "spec",
       "build_output_subfolder": "spec",
-      "locale": "sk-SK",
+      "locale": "sk-sk",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -65,7 +65,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.sk-SK",
+      "url": "https://github.com/Microsoft/templates.docs.msft.sk-sk",
       "branch": "master",
       "branch_mapping": {}
     },
